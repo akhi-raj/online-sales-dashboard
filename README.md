@@ -3,6 +3,7 @@
 This project showcases an analysis of online sales data using both **Power BI** and **Python**. The goal is to create interactive and static dashboards that highlight sales performance, profitability, and customer behavior. 
 
 The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data/data) and is licensed under **CC0: Public Domain**. It demonstrates techniques for cleaning, processing, and visualizing data to gain valuable insights.
+![image](https://github.com/user-attachments/assets/3ea974cf-0d09-44a4-b07e-0e780512c679)
 
 ---
 
