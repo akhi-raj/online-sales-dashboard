@@ -11,36 +11,43 @@ The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/
 1. **Dataset**: Online Sales Data from Kaggle.
 2. **Power BI**: Interactive dashboard.
 3. **Python**: Static visualizations 
-   - **Pandas**: data cleaning and manipulation.
-   - **Matplotlib.pyplot**: For charts and visualizations.
+   - Pandas: data cleaning and manipulation.
+   - Matplotlib.pyplot: For charts and visualizations.
 
 ---
 
 ## Features
 
 ### Power BI Dashboard
-- **Slicers**
-- **KPIs**
-  - **Visualizations**
+- Slicers
+- KPIs
+  - Visualizations
   
 ### Python Visualizations
-- **Data Cleaning**
-  - **KPIs**
-  **Visualizations**
-  - **Code Implementation**
+- Data Cleaning
+  - KPIs
+  Visualizations
+  - Code Implementation
   - Python code for these visualizations is available in the Jupyter Notebook: `Online Sales.ipynb`.
 
 ---
 
 ## Key Insights
 
-- **Top 5 Customers**
-- **5 City Trends**
-- **Category Contributions**
-- **Payment Preferences/ Mode**
-- **Profitability**
+- Top 5 Customers
+- 5 City Trends
+- Category Contributions
+- Payment Preferences/ Mode
+- Profitability
 
 ## Files in the Repository
 1. **`Online Sales.pbix`**: The Power BI dashboard file.
 2. **`Online Sales.ipynb`**: Python-based analysis and visualizations in a Jupyter Notebook.
 3. **`Details.csv`** and **`Orders.csv`**: Raw datasets used for the analysis.
+
+---
+
+I am Akhi Raj S, passionate about transforming data into actionable insights using tools like Power BI, Python, Pandas, and Matplotlib.
+
+LinkedIn: [https://www.linkedin.com/in/akhi-/]
+GitHub: (https://github.com/akhi-raj)
