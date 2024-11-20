@@ -19,15 +19,15 @@ The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/
 ## Features
 
 ### Power BI Dashboard
-- **Slicers**:
-- **KPIs**:
-  - **Visualizations**:
+- **Slicers**
+- **KPIs**
+  - **Visualizations**
   
 ### Python Visualizations
-- **Data Cleaning**:
-  - **KPIs**:
-  **Visualizations**:
-  - **Code Implementation**:
+- **Data Cleaning**
+  - **KPIs**
+  **Visualizations**
+  - **Code Implementation**
   - Python code for these visualizations is available in the Jupyter Notebook: `Online Sales.ipynb`.
 
 ---
