@@ -1,4 +1,4 @@
-# Online Sales Dashboard and Python Visualizations
+# Online Sales Dashboard
 
 This project showcases an analysis of online sales data using both **Power BI** and **Python**. The goal is to create interactive and static dashboards that highlight sales performance, profitability, and customer behavior. 
 
