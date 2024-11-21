@@ -4,6 +4,7 @@ This project showcases an analysis of online sales data using both **Power BI** 
 
 The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data/data) and is licensed under **CC0: Public Domain**. It demonstrates techniques for cleaning, processing, and visualizing data to gain valuable insights.
 ![image](https://github.com/user-attachments/assets/3ea974cf-0d09-44a4-b07e-0e780512c679)
+![image](https://github.com/user-attachments/assets/7b162406-ead4-4d83-88f9-53f7b75c279b)
 
 ---
 
