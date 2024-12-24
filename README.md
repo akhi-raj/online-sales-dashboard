@@ -11,10 +11,10 @@ The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/
 ## Tools 
 
 1. **Dataset**: Online Sales Data from Kaggle.
-2. **'Power BI'**: Interactive dashboard.
-3. **'Python'**: Static visualizations 
-   - 'Pandas': data cleaning and manipulation.
-   - 'Matplotlib.pyplot': For charts and visualizations.
+2. **`Power BI`**: Interactive dashboard.
+3. **`Python`**: Static visualizations 
+   - `Pandas`: data cleaning and manipulation.
+   - `Matplotlib.pyplot`: For charts and visualizations.
 
 ---
 
