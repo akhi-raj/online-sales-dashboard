@@ -1,6 +1,6 @@
 # Online Sales Dashboard
 
-This project showcases an analysis of online sales data using both **Power BI** and **Python**. The goal is to create interactive and static dashboards that highlight sales performance, profitability, and customer behavior. 
+This project analyzes online sales data to uncover revenue trends, customer behavior, and profitability patterns across product categories and cities.
 
 The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data/data) and is licensed under **CC0: Public Domain**. It demonstrates techniques for cleaning, processing, and visualizing data to gain valuable insights.
 ![image](https://github.com/user-attachments/assets/3ea974cf-0d09-44a4-b07e-0e780512c679)
@@ -20,27 +20,24 @@ The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/
 
 ## Features
 
-### Power BI Dashboard
-- Slicers
-- KPIs
-  - Visualizations
-  
-### Python Visualizations
-- Data Cleaning
-  - KPIs
-  Visualizations
-  - Code Implementation
-  - Python code for these visualizations is available in the Jupyter Notebook: `Online Sales.ipynb`.
+Power BI Dashboard
+- Slicers for filtering by date, category, and region
+- KPI cards for total revenue, profit, and orders
+- Interactive visualizations
+
+Python Visualizations
+- Data cleaning and preprocessing
+- KPI summaries
+- Static charts using Matplotlib
 
 ---
 
 ## Key Insights
 
-- Top 5 Customers
-- 5 City Trends
-- Category Contributions
-- Payment Preferences/ Mode
-- Profitability
+* The top 5 customers contributed 28% of total revenue
+* Electronics was the highest-selling category at 35% of sales
+* Cash on Delivery was the most preferred payment method at 44%
+* Mumbai and Delhi together accounted for 40% of total orders
 
 ## Files in the Repository
 1. **`Online Sales.pbix`**: The Power BI dashboard file.
@@ -51,5 +48,4 @@ The dataset is sourced from [Kaggle - Online Sales Data](https://www.kaggle.com/
 
 I am Akhi Raj S, passionate about transforming data into actionable insights using tools like Power BI, Python, Pandas, and Matplotlib.
 
-LinkedIn: [https://www.linkedin.com/in/akhi-/]
-GitHub: (https://github.com/akhi-raj)
+[LinkedIn](https://www.linkedin.com/in/akhi-/)
